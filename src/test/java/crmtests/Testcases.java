@@ -14,5 +14,10 @@ public class Testcases {
 	{
 		System.out.println("test case 2");
 	}
+	@Test
+	public void test3()
+	{
+		System.out.println("test case 3");
+	}
 
 }
